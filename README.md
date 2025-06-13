@@ -54,10 +54,10 @@ ticket_booking_web/
 ## 🖼️ Screenshots
 
 ### 🏠 Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/homepage.jpeg)
 
 ### 🎟️ Seat Selection
-![Seat Selection](screenshots/seat_selection.png)
+![Seat Selection](screenshots/seat_selection.jpeg)
 
 ### ✅ Booking Confirmation
-![Confirmation Page](screenshots/confirmation.png)
+![Confirmation Page](screenshots/confirmation.jpeg)
