@@ -50,12 +50,13 @@ ticket_booking_web/
 ├── schema.sql            # SQL schema (DB structure)
 ├── screenshots/          # Images used in README
 
-# 🖼️ Screenshots
 
-### 🎬 Homepage
+## 🖼️ Screenshots
+
+### 🏠 Homepage
 ![Homepage](screenshots/homepage.png)
 
-### 🪑 Seat Selection
+### 🎟️ Seat Selection
 ![Seat Selection](screenshots/seat_selection.png)
 
 ### ✅ Booking Confirmation
