@@ -38,15 +38,17 @@ A full-stack movie ticket booking web app, allowing users to browse movies, chec
     [http://localhost:3000](http://localhost:3000)
 
 ## 📁 Folder Structure
+
+```plaintext
 ticket_booking_web/
-├── assets/ # Static files (images, icons, etc.)
-├── venv/ # Virtual environment (excluded in Git)
-├── *.py # Python modules (main, auth, booking, etc.)
-├── movie_booking.db # SQLite database
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-├── schema.sql # SQL schema (DB structure)
-├── screenshots/ # Images used in README
+├── assets/               # Static files (images, icons, etc.)
+├── venv/                 # Virtual environment (excluded in Git)
+├── *.py                  # Python modules (main, auth, booking, etc.)
+├── movie_booking.db      # SQLite database
+├── requirements.txt      # Python dependencies
+├── README.md             # Project documentation
+├── schema.sql            # SQL schema (DB structure)
+├── screenshots/          # Images used in README
 
 # 🖼️ Screenshots
 
