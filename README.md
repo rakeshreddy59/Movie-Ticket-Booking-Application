@@ -27,3 +27,34 @@ A full-stack movie ticket booking web app, allowing users to browse movies, chec
    ```bash
    git clone https://github.com/rakeshreddy59/Movie-Ticket-Booking-Application.git
    cd Movie-Ticket-Booking-Application
+
+2. **Install dependencies**:
+    npm install
+
+3. **Start the development server**:
+    npm start
+
+4. **Open your browser and go to**:
+    [http://localhost:3000](http://localhost:3000)
+
+## 📁 Folder Structure
+ticket_booking_web/
+├── assets/ # Static files (images, icons, etc.)
+├── venv/ # Virtual environment (excluded in Git)
+├── *.py # Python modules (main, auth, booking, etc.)
+├── movie_booking.db # SQLite database
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+├── schema.sql # SQL schema (DB structure)
+├── screenshots/ # Images used in README
+
+# 🖼️ Screenshots
+
+### 🎬 Homepage
+![Homepage](screenshots/homepage.png)
+
+### 🪑 Seat Selection
+![Seat Selection](screenshots/seat_selection.png)
+
+### ✅ Booking Confirmation
+![Confirmation Page](screenshots/confirmation.png)
